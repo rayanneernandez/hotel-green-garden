@@ -36,7 +36,7 @@ export default function HomePage({ onRoomSelect, onRoomBook }: HomePageProps) {
         <div className="relative z-10 text-center text-white max-w-4xl mx-auto px-4">
           <h1 className="text-5xl md:text-7xl font-bold mb-6 leading-tight">
             Bem-vindo ao
-            <span className="block text-green-400">Hotel Real</span>
+            <span className="block text-green-400">Hotel Green Garden</span>
           </h1>
           <p className="text-xl md:text-2xl mb-8 leading-relaxed">
             Experimente o luxo e conforto em cada detalhe da sua estadia

@@ -13,8 +13,8 @@ export default function Footer() {
                 <Hotel size={24} />
               </div>
               <div>
-                <h3 className="text-xl font-bold">Hotel Real</h3>
-                <p className="text-sm text-gray-400">Luxury & Comfort</p>
+                <h3 className="text-xl font-bold">Hotel Green Garden</h3>
+                <p className="text-sm text-gray-400">Luxo e conforto</p>
               </div>
             </div>
             <p className="text-gray-400 mb-4">

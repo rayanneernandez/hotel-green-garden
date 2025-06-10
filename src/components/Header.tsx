@@ -21,11 +21,11 @@ export default function Header({ currentPage, onNavigate }: HeaderProps) {
           <div className="flex items-center space-x-6">
             <div className="flex items-center space-x-2">
               <Phone size={14} />
-              <span>(11) 9999-8888</span>
+              <span>(11) 98919-1499</span>
             </div>
             <div className="flex items-center space-x-2">
               <Mail size={14} />
-              <span>contato@hotelreal.com.br</span>
+              <span>contato@hotelgreengarden.com.br</span>
             </div>
           </div>
           <div className="flex items-center space-x-2">
@@ -45,8 +45,8 @@ export default function Header({ currentPage, onNavigate }: HeaderProps) {
               <Hotel className="text-white" size={28} />
             </div>
             <div>
-              <h1 className="text-2xl font-bold text-gray-800">Hotel Real</h1>
-              <p className="text-sm text-gray-600">Luxury & Comfort</p>
+              <h1 className="text-2xl font-bold text-gray-800">Hotel Green Garden</h1>
+              <p className="text-sm text-gray-600">Luxo e conforto</p>
             </div>
           </div>
           
