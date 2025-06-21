@@ -36,6 +36,7 @@ export interface PaymentInfo {
     zipCode: string;
     country: string;
   };
+<<<<<<< HEAD
 }
 
 export interface User {
@@ -52,4 +53,6 @@ export interface AuthContextType {
   register: (name: string, email: string, password: string, phone?: string) => Promise<boolean>;
   logout: () => void;
   isLoading: boolean;
+=======
+>>>>>>> 52499e4be17e71838cf0de729eee21e231007f83
 }

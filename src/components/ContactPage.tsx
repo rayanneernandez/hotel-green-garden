@@ -83,9 +83,15 @@ export default function ContactPage() {
                   <div>
                     <h3 className="text-xl font-bold text-gray-800 mb-2">E-mails</h3>
                     <p className="text-gray-600">
+<<<<<<< HEAD
                       <strong>Geral:</strong> contato@greengardenhotels.com.br<br />
                       <strong>Reservas:</strong> reservas@greengardenhotels.com.br<br />
                       <strong>Eventos:</strong> eventos@greengardenhotels.com.br
+=======
+                      <strong>Geral:</strong> contato@hotelreal.com.br<br />
+                      <strong>Reservas:</strong> reservas@hotelreal.com.br<br />
+                      <strong>Eventos:</strong> eventos@hotelreal.com.br
+>>>>>>> 52499e4be17e71838cf0de729eee21e231007f83
                     </p>
                   </div>
                 </div>
@@ -227,7 +233,11 @@ export default function ContactPage() {
                   </div>
                   <div className="flex items-center justify-between">
                     <span className="text-gray-700">E-mail</span>
+<<<<<<< HEAD
                     <a href="mailto:contato@greengardenhotels.com.br" className="text-green-600 font-medium hover:text-green-700">
+=======
+                    <a href="mailto:contato@hotelreal.com.br" className="text-green-600 font-medium hover:text-green-700">
+>>>>>>> 52499e4be17e71838cf0de729eee21e231007f83
                       Enviar E-mail
                     </a>
                   </div>

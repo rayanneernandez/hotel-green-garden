@@ -1,5 +1,8 @@
 import React, { useState } from 'react';
+<<<<<<< HEAD
 import { AuthProvider } from './contexts/AuthContext';
+=======
+>>>>>>> 52499e4be17e71838cf0de729eee21e231007f83
 import Header from './components/Header';
 import HomePage from './components/HomePage';
 import RoomsPage from './components/RoomsPage';
@@ -14,7 +17,11 @@ import { Booking } from './types';
 
 type Page = 'home' | 'rooms' | 'services' | 'contact' | 'booking' | 'room-details' | 'confirmation';
 
+<<<<<<< HEAD
 function AppContent() {
+=======
+function App() {
+>>>>>>> 52499e4be17e71838cf0de729eee21e231007f83
   const [currentPage, setCurrentPage] = useState<Page>('home');
   const [selectedRoomId, setSelectedRoomId] = useState<string>('');
   const [confirmedBooking, setConfirmedBooking] = useState<Booking | null>(null);
@@ -112,6 +119,7 @@ function AppContent() {
   );
 }
 
+<<<<<<< HEAD
 function App() {
   return (
     <AuthProvider>
@@ -120,4 +128,6 @@ function App() {
   );
 }
 
+=======
+>>>>>>> 52499e4be17e71838cf0de729eee21e231007f83
 export default App;
