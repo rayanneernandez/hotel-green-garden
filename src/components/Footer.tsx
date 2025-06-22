@@ -69,11 +69,11 @@ export default function Footer() {
               </div>
               <div className="flex items-center space-x-3">
                 <Mail size={16} className="text-green-600" />
-<<<<<<< HEAD
+
                 <span className="text-gray-400">contato@greengardenhotels.com.br</span>
-=======
+
                 <span className="text-gray-400">contato@hotelreal.com.br</span>
->>>>>>> 52499e4be17e71838cf0de729eee21e231007f83
+
               </div>
             </div>
           </div>
@@ -81,11 +81,11 @@ export default function Footer() {
 
         <div className="border-t border-gray-700 mt-8 pt-8 text-center">
           <p className="text-gray-400">
-<<<<<<< HEAD
-            © 2024 Green Garden - Rede de Hotéis. Todos os direitos reservados. | 
-=======
-            © 2024 Hotel Real. Todos os direitos reservados. | 
->>>>>>> 52499e4be17e71838cf0de729eee21e231007f83
+
+            © 2025 Green Garden - Rede de Hotéis. Todos os direitos reservados. | 
+
+            © 2025 Hotel Green Garden. Todos os direitos reservados. | 
+
             <a href="#" className="text-green-600 hover:text-green-500 ml-1">Política de Privacidade</a> | 
             <a href="#" className="text-green-600 hover:text-green-500 ml-1">Termos de Uso</a>
           </p>
